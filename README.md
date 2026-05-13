@@ -1,18 +1,26 @@
  Excel Sales Dashboard
 
-## Project Overview
-This Excel project visualizes sales data using interactive charts and dashboards.
+## Dashboard contains:
 
-## Features
-- Sales trends over time
-- Product performance analysis
-- Regional sales breakdown
-- Key metrics and KPIs
+### 1. Revenue by Sales Rep (Bar Chart)
+- Top performer: Peter (~438M)
+- Others: Musa, Grace, David, Chidim, Aisha
 
-## How to Use
-1. Download the Excel file from this repository
-2. Open with Microsoft Excel (2016 or later) or Google Sheets
-3. Explore the charts and dashboards
+### 2. Customer Count by Month (Line Chart)
+- Trend tracked from January to May
+- Shows monthly customer volume changes
 
-## Author
-Daniel Ngwaba
+### 3. Profit by Product (Pie Chart)
+- Sofa Classic: ~69M (15% of total)
+- Air Conditioner: ~45M
+- Smartphone: ~41M
+- Blender: ~7M
+
+## Key insights:
+- Peter generates the most revenue
+- Sofa Classic is the most profitable product
+- Customer count fluctuates monthly – investigate cause of dips
+
+## What I built in Excel:
+- Bar, line, and pie charts for different perspectives
+- Summarized raw data into clear visuals
